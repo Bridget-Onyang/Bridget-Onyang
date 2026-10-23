@@ -1,56 +1,125 @@
-# Hi, I'm Bridget Onyang 👋
+<div align="center">
 
-### Computer Science Student | Software Development | Backend Engineering & Data Science
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Bridget%20Onyang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Backend%20%26%20Data%20Science&descSize=16&descAlignY=58" width="100%" />
 
-I'm a Computer Science student at Uganda Christian University interested in building practical software solutions and exploring how data can be used to solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Exploring+how+data+solves+real-world+problems;Learning+by+building%2C+one+project+at+a+time" alt="Typing animation" />
 
-I'm developing my skills through hands-on projects, collaborative learning, and continuous practice.
+<img src="https://komarev.com/ghpvc/?username=Bridget-Onyang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-## 👩🏽‍💻 About Me
+</div>
 
-- 🎓 Pursuing a BSc in Computer Science at Uganda Christian University.
-- 💻 Interested in software development and backend engineering.
-- 📊 Exploring data science, data analysis, and data-driven problem-solving.
-- 🌱 Strengthening my programming, analytical thinking, and problem-solving skills.
-- 🤝 Open to collaborating on meaningful software and data-focused projects.
+## About Me
 
-## 🛠️ Technologies & Areas of Interest
+```python
+class Bridget:
+    def __init__(self):
+        self.name = "Bridget Onyang"
+        self.location = "Uganda"
+        self.education = "BSc Computer Science @ Uganda Christian University"
+        self.role = "Computer Science Student"
 
-- **Programming:** PHP, JavaScript, C; currently developing my Python skills.
-- **Software Development:** Web applications and backend systems.
-- **Data Science:** Data analysis, data visualisation, and exploratory data analysis.
-- **Currently Learning:** Python, Git/GitHub workflows, and data analysis tools.
+    def passions(self):
+        return [
+            "Software Development",
+            "Backend Engineering",
+            "Data Science",
+            "Data Analysis & Visualisation",
+            "Web Applications"
+        ]
 
-## 🚀 Projects
+    def currently_learning(self):
+        return ["Python", "Git & GitHub workflows", "Data analysis tools"]
 
-### AccountAble
-An accountability platform concept focused on helping small and medium-sized businesses improve transparency and record-keeping.
+    def open_to(self):
+        return ["Collaborations", "Internships", "New Technologies"]
 
-[View Repository](https://github.com/Bridget-Onyang/accountable)
+    def motto(self):
+        return "Learning by building. Improving through collaboration."
+```
 
-### Web-Based Farming Monitoring System
-A web-based project focused on monitoring a multipurpose farming system.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 
-[View Repository](https://github.com/Bridget-Onyang/Web-based-system)
+## Tech Stack
 
-### C Programming Practice
-A C programming project demonstrating basic array operations and problem-solving.
+<div align="center">
 
-[View Repository](https://github.com/Bridget-Onyang/bridgette)
+<img src="https://skillicons.dev/icons?i=php,js,c,python,html,css,git,github&perline=8" alt="Tech stack" />
 
-## 🎯 Current Goals
+</div>
 
-- Build practical projects and improve code quality.
-- Strengthen my Python and backend development skills.
-- Develop skills in data analysis and data science.
-- Learn collaborative development through Git and GitHub.
-- Apply programming and data-driven approaches to real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
 
-## 🤝 Let's Connect
+## What I Do
 
-- **GitHub:** [Bridget-Onyang](https://github.com/Bridget-Onyang)
-- **LinkedIn:** https://www.linkedin.com/in/bridget-onyang-1668ab329?utm_source=share_via&utm_content=profile&utm_medium=member_android
+<div align="center">
 
----
+| Software Development | Backend Engineering | Data Science | Growing Skills |
+|:---:|:---:|:---:|:---:|
+| Web Applications | Server-side Logic | Data Analysis | Python |
+| Problem Solving | Databases | Data Visualisation | Git & GitHub |
+| Code Quality | System Design | Exploratory Analysis | Collaboration |
 
-*Learning by building. Improving through collaboration. Growing one project at a time.*
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Bridget-Onyang/accountable">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bridget-Onyang&repo=accountable&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bridget-Onyang/Web-based-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bridget-Onyang&repo=Web-based-system&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Bridget-Onyang/bridgette">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bridget-Onyang&repo=bridgette&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+- 📒 **AccountAble:** an accountability platform concept to help small and medium-sized businesses improve transparency and record-keeping.
+- 🌾 **Web-Based Farming Monitoring System:** a web project for monitoring a multipurpose farming system.
+- 🧮 **C Programming Practice:** array operations and problem-solving in C.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bridget-Onyang&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridget-Onyang&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=Bridget-Onyang&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+
+## Current Goals
+
+- [ ] Build practical projects and improve code quality
+- [ ] Strengthen my Python and backend development skills
+- [ ] Develop skills in data analysis and data science
+- [ ] Get comfortable with collaborative Git/GitHub workflows
+- [ ] Apply data-driven approaches to real-world problems
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+
+## Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=600&lines=Open+for+collaborations+%26+opportunities!" alt="Open for collaborations" />
+
+<a href="https://www.linkedin.com/in/bridget-onyang-1668ab329"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/GMAIL-SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Bridget-Onyang"><img src="https://img.shields.io/badge/GITHUB-CHECK%20MY%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+
+</div>

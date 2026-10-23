@@ -1,17 +1,23 @@
- <div align="center">
+
+<div align="center">
 
 # Hi, I'm Bridget Onyang 👋
 
 ### Computer Science Student | Backend Engineering | Data Science
 
-Building practical software solutions and exploring how data can solve real-world problems.
+Building practical software. Exploring data. Solving real-world problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Exploring+data-driven+problem+solving;Learning+by+building%2C+one+project+at+a+time" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+practical+software+solutions;Exploring+the+power+of+data;Growing+through+projects+and+collaboration" alt="Typing animation" />
 
-<img src="https://komarev.com/ghpvc/?username=Bridget-Onyang&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Bridget--Onyang-181717?style=for-the-badge&logo=github)](https://github.com/Bridget-Onyang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bridget-onyang-1668ab329)
+<p>
+  <a href="https://github.com/Bridget-Onyang">
+    <img src="https://img.shields.io/badge/GitHub-Bridget--Onyang-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/bridget-onyang-1668ab329">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bridget-Onyang&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 </div>
 
@@ -19,9 +25,9 @@ Building practical software solutions and exploring how data can solve real-worl
 
 ## 👩🏽‍💻 About Me
 
-I'm a Computer Science student at Uganda Christian University, interested in building useful software, developing reliable backend systems, and using data to understand and solve real-world problems.
+I'm a Computer Science student at **Uganda Christian University**, passionate about software development, backend engineering, and data science.
 
-I'm growing my skills through hands-on projects, collaborative development, and continuous learning.
+I enjoy learning by building projects, exploring new technologies, and turning ideas into practical solutions. I'm particularly interested in how software and data can address real-world challenges in Uganda and beyond.
 
 ```python
 class Bridget:
@@ -43,72 +49,74 @@ class Bridget:
     def currently_learning(self):
         return [
             "Python",
+            "Backend Development",
             "Data Analysis",
-            "Git and GitHub",
-            "Backend Development"
+            "Git and GitHub"
         ]
 
     def goals(self):
         return [
-            "Build practical software projects",
-            "Strengthen my programming skills",
-            "Explore data-driven solutions",
-            "Collaborate with other developers"
+            "Build practical software solutions",
+            "Improve code quality",
+            "Grow through collaboration",
+            "Apply data to real-world problems"
         ]
 
     def motto(self):
         return "Learn by building. Grow through collaboration."
 ```
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,php,js,c,html,css,git,github&perline=8" alt="Programming languages and development tools" />
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,php,js,c" alt="Programming languages" />
+
+### Web Development & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,react,git,github,vscode" alt="Web development and tools" />
 
 </div>
 
-**Areas I'm developing**
+I'm continuously strengthening my programming foundations and expanding my experience through hands-on development.
 
-- Backend development and application logic
-- Database fundamentals and data management
-- Data analysis and visualization
-- Web application development
-- Version control and collaborative workflows
+---
 
 ## 🚀 Featured Projects
 
-Projects that reflect my learning journey and interest in building practical solutions.
+A selection of projects that reflect my interests in software development, digital solutions, and problem-solving.
 
-<div align="center">
+### 🌐 NetGatta
 
-<a href="https://github.com/Bridget-Onyang?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bridget-Onyang&repo=NetGatta&theme=tokyonight&hide_border=true" alt="NetGatta repository card" />
-</a>
-<a href="https://github.com/Bridget-Onyang/accountable">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bridget-Onyang&repo=accountable&theme=tokyonight&hide_border=true" alt="AccountAble repository card" />
-</a>
-<a href="https://github.com/Bridget-Onyang?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bridget-Onyang&repo=e-voting-app&theme=tokyonight&hide_border=true" alt="E-Voting App repository card" />
-</a>
+A software development project focused on building a practical digital solution.
 
-</div>
+[Explore the NetGatta repository →](https://github.com/Bridget-Onyang?tab=repositories)
 
-### 📌 Project Highlights
+### 📒 AccountAble
 
-**1. NetGatta**
+A digital accountability platform concept designed to help small and medium-sized enterprises improve record-keeping, transparency, and business accountability.
 
-A software development project. Explore the repository to learn about its purpose, implementation, and technologies.
+The project explores how software solutions and potentially blockchain-based audit trails can support more traceable business records.
 
-**2. AccountAble**
+**Focus areas:** Business accountability, record management, transparency, and software development.
 
-An accountability platform concept designed to help small and medium-sized businesses improve transparency, record-keeping, and accountability through digital solutions.
+[Explore AccountAble →](https://github.com/Bridget-Onyang/accountable)
 
-**3. E-Voting App**
+### 🗳️ E-Voting App
 
-An electronic voting application project focused on digitizing the voting process. Explore the repository for its implemented features and technical details.
+An electronic voting application project exploring how digital technologies can support election management, vote recording, and vote counting.
 
-[Explore all my repositories →](https://github.com/Bridget-Onyang?tab=repositories)
+The project provides an opportunity to explore application development, data management, and the design considerations involved in reliable digital voting systems.
+
+**Focus areas:** Web applications, election management, and data handling.
+
+[Explore my repositories →](https://github.com/Bridget-Onyang?tab=repositories)
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -116,35 +124,51 @@ An electronic voting application project focused on digitizing the voting proces
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bridget-Onyang&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridget-Onyang&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bridget-Onyang&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<br />
 
 <img src="https://streak-stats.demolab.com/?user=Bridget-Onyang&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-## 🎯 Current Goals
+---
 
-- [ ] Build practical projects and write cleaner, more maintainable code.
-- [ ] Strengthen my Python and backend development skills.
-- [ ] Develop my foundations in data analysis and data science.
-- [ ] Improve my Git and GitHub collaboration workflows.
-- [ ] Apply technology and data-driven thinking to real-world problems.
-- [ ] Learn from other developers and contribute to collaborative projects.
+## 🎯 What I'm Working Towards
 
-## 🌱 Beyond the Code
+- 📌 Strengthening my Python programming and problem-solving skills.
+- 📌 Building reliable backend systems and practical web applications.
+- 📌 Developing my foundations in data analysis and data science.
+- 📌 Improving my Git and GitHub collaboration workflows.
+- 📌 Building projects that address meaningful, real-world problems.
+- 📌 Learning from other developers and contributing to collaborative work.
 
-I believe technology is most valuable when it addresses real needs. I'm particularly interested in exploring how software and data can contribute to practical solutions for communities in Uganda and beyond.
+---
 
-I'm always learning, experimenting with ideas, and looking for opportunities to grow as a developer.
+## 🌍 My Perspective
+
+I believe technology is most valuable when it solves problems that matter.
+
+Coming from Uganda, I'm interested in exploring how software and data-driven approaches can support businesses, communities, and everyday decision-making.
+
+My journey is about continuous learning, practical experience, and building solutions with purpose.
+
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**Interested in collaborating, learning together, or building something useful? Let's connect!**
+I'm open to learning opportunities, meaningful collaborations, and connecting with people who are passionate about technology.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github)](https://github.com/Bridget-Onyang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bridget-onyang-1668ab329)
+<a href="https://github.com/Bridget-Onyang">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/bridget-onyang-1668ab329">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<br /><br />
 
 *Learning by building. Improving through collaboration.*
 

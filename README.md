@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Bridget%20Onyang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Backend%20%26%20Data%20Science&descSize=16&descAlignY=58" width="100%" />
+# Hi, I'm Bridget Onyang 👋
+
+### Computer Science Student | Backend Engineering & Data Science
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+practical+software+solutions;Exploring+how+data+solves+real-world+problems;Learning+by+building%2C+one+project+at+a+time" alt="Typing animation" />
 
 <img src="https://komarev.com/ghpvc/?username=Bridget-Onyang&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
+
+---
 
 ## About Me
 
@@ -37,7 +41,7 @@ class Bridget:
         return "Learning by building. Improving through collaboration."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+---
 
 ## Tech Stack
 
@@ -47,7 +51,7 @@ class Bridget:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+---
 
 ## What I Do
 
@@ -61,7 +65,7 @@ class Bridget:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+---
 
 ## Featured Projects
 
@@ -83,7 +87,7 @@ class Bridget:
 - 🌾 **Web-Based Farming Monitoring System:** a web project for monitoring a multipurpose farming system.
 - 🧮 **C Programming Practice:** array operations and problem-solving in C.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+---
 
 ## GitHub Stats
 
@@ -96,7 +100,7 @@ class Bridget:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+---
 
 ## Current Goals
 
@@ -106,7 +110,7 @@ class Bridget:
 - [ ] Get comfortable with collaborative Git/GitHub workflows
 - [ ] Apply data-driven approaches to real-world problems
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" />
+---
 
 ## Let's Connect
 
@@ -114,12 +118,4 @@ class Bridget:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=600&lines=Open+for+collaborations+%26+opportunities!" alt="Open for collaborations" />
 
-<a href="https://www.linkedin.com/in/bridget-onyang-1668ab329"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/GMAIL-SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Bridget-Onyang"><img src="https://img.shields.io/badge/GITHUB-CHECK%20MY%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
-
-</div>
+<a href="https://www.linkedin.com/in/bridget-onyang-1668ab329"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoCo

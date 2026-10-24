@@ -69,20 +69,28 @@ class Bridget:
 
 ## Featured Projects
 
-### 📱 NetGatta
-An Android app that lets you name the one task that matters on a weak connection, then holds background traffic back so it finishes first. Fully local with no server, built on Android's VpnService.
-
-**Built with:** TypeScript, Android VpnService · [View repository →](https://github.com/Bridget-Onyang/NetGatta)
-
-### 📒 AccountAble
-A digital accountability platform for SMEs, focused on transparent record-keeping, traceable business activities, and improved financial accountability.
-
-**Built with:** PHP · [View repository →](https://github.com/Bridget-Onyang/accountable)
-
-### 🗳️ E-Voting App
-A Software Construction project exploring how an electronic voting application can handle vote recording and counting. Forked from the course repository.
-
-**Built with:** Python · [View repository →](https://github.com/Bridget-Onyang/E-voting-App)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📱 NetGatta</h3>
+      <p>An Android app that lets you name the one task that matters on a weak connection, then holds background traffic back so it finishes first. Fully local with no server, built on Android's VpnService.</p>
+      <p><b>Built with:</b> TypeScript, Android VpnService</p>
+      <a href="https://github.com/Bridget-Onyang/NetGatta">View repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📒 AccountAble</h3>
+      <p>A digital accountability platform for SMEs, focused on transparent record-keeping, traceable business activities, and improved financial accountability.</p>
+      <p><b>Built with:</b> PHP</p>
+      <a href="https://github.com/Bridget-Onyang/accountable">View repository →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🗳️ E-Voting App</h3>
+      <p>A Software Construction project exploring how an electronic voting application can handle vote recording and counting. Forked from the course repository.</p>
+      <p><b>Built with:</b> Python</p>
+      <a href="https://github.com/Bridget-Onyang/E-voting-App">View repository →</a>
+    </td>
+  </tr>
+</table>
 
 **More:** [Web-Based Farming Monitoring System](https://github.com/Bridget-Onyang/Web-based-system) · [C Programming Practice](https://github.com/Bridget-Onyang/bridgette)
 
@@ -93,20 +101,4 @@ A Software Construction project exploring how an electronic voting application c
 - Strengthen my Python and backend development skills
 - Build practical projects and improve code quality
 - Develop foundations in data analysis and data science
-- Grow through collaborative Git and GitHub workflows
-
----
-
-## Let's Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00B4D8&center=true&vCenter=true&width=600&lines=Open+for+collaborations+%26+opportunities!" alt="Open for collaborations" />
-
-<br />
-
-<a href="https://www.linkedin.com/in/bridget-onyang-1668ab329"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/GMAIL-SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Bridget-Onyang"><img src="https://img.shields.io/badge/GITHUB-CHECK%20MY%20REPOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div>
+- Grow through collaborative Git and GitHub

@@ -94,11 +94,3 @@ class Bridget:
 
 **More:** [Web-Based Farming Monitoring System](https://github.com/Bridget-Onyang/Web-based-system) · [C Programming Practice](https://github.com/Bridget-Onyang/bridgette)
 
----
-
-## Current Goals
-
-- Strengthen my Python and backend development skills
-- Build practical projects and improve code quality
-- Develop foundations in data analysis and data science
-- Grow through collaborative Git and GitHub
